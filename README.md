@@ -1,6 +1,6 @@
 # Algo Trading Bot
 
-Algo Trading Bot is a trading alogrithm that analyzes stock data to make automated trading decisions. The application uses multiple algorithm trading models over the same historical time period to compare their results. Machine learning will be used to build, train, and backtest the trading bot.
+Algo Trading Bot is a trading alogrithm that analyzes stock data to make automated trading decisions. The application uses two algorithm trading models over the same historical time period to compare their results. Machine learning will be used to build, train, and backtest the trading bot.
 
 ---
 
